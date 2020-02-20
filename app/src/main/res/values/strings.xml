@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aarhus-students</string>
+    <string name="Add_New">Add New</string>
+    <string name="name">Name</string>
+    <string name="cpr">Phone number</string>
+    <string name="email">Email</string>
+    <string name="skype">Skype</string>
+    <string name="street">Street</string>
+    <string name="study">Study field</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="share">Share</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Hint</string>
+    <string name="web_browser">Web Browser</string>
+    <string name="show_map">Show Map</string>
+    <string name="make_call">Make Call</string>
+</resources>
